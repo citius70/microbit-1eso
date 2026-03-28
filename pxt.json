@@ -10,6 +10,7 @@
     "files": [
         "README.md",
         "main.blocks",
+        "01_primeros_pasos.md",
         "main.ts"
     ],
     "testFiles": [
